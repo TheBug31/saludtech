@@ -1,0 +1,13 @@
+# credenciales locales
+conexion.php
+.env
+
+# IDE / sistema
+.vscode/
+.idea/
+.DS_Store
+
+# dependencias / logs
+vendor/
+node_modules/
+*.log
